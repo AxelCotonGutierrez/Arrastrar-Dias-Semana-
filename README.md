@@ -1,5 +1,5 @@
 # Juego para aprender os Días de la Semana.
-
+Arrastrar-Dias-Semana/
 
 ![Juego de las Partes Básicas de la Cara](https://axelcotongutierrez.github.io/learningmathematicas/assets/images//posts/0012JDiasSemana/J01DS.jpg)
 
