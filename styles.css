@@ -155,7 +155,11 @@ h1 {
       max-width: 80%; /* Ancho completo en dispositivos móviles */
       flex-wrap: wrap; /* Permitir envolver las imágenes en múltiples líneas */
     }
+    .pregunta {
+     
+      font-size: 25px;
     
+    }
     .guess-button {
       font-size: 15px;
       padding: 5x 5px;
